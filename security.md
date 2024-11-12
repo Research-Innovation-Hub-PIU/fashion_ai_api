@@ -22,7 +22,7 @@ We actively support and maintain the latest stable version of **My Kitenge Wardr
 
 We take security issues seriously and appreciate your efforts to responsibly disclose potential vulnerabilities. Please follow these steps to report any issues:
 
-1. **Contact**: Send an email to [your-email@example.com](mailto:your-email@example.com) with the subject line "Security Issue: [Brief Description]".
+1. **Contact**: Send an email to patience.cui.g@gmail.com with the subject line "Security Issue: [Brief Description]".
 2. **Description**: Include as much information as possible about the issue, including:
    - Steps to reproduce the vulnerability
    - Potential impact on the project
