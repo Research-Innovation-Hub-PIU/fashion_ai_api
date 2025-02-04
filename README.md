@@ -112,7 +112,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 ### Author:  
-Patience Wangui (https://github.com/your-username)
+Patience Wangui https://github.com/Patiencewantae123/fashion_ai_api
 
 ---
 
