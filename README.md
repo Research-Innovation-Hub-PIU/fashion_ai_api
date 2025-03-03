@@ -6,7 +6,7 @@ Welcome to **My Kitenge Wardrobe**, a stylish Flutter app that allows you to upl
 
 ## 🔧 Features
 
-### 🖼 **Image Upload**
+###**Image Upload**
 Seamlessly upload a Kitenge outfit from your gallery using the `image_picker` package.
 
 ### 🖌️ **Image Display**
