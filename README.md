@@ -22,8 +22,13 @@ Built using the latest Flutter framework for a smooth, cross-platform experience
 
 ## 🖼️ Screenshots
 
-![Wardrobe Screenshot](assets/screenshot.png)  
-*Replace with actual screenshot of the app.*
+![Screenshot 2024-11-12 140219](https://github.com/user-attachments/assets/18ffc630-6c4f-488f-9db7-b5e3f13635f2)
+![Screenshot 2024-11-12 140230](https://github.com/user-attachments/assets/b7cb4d07-cbe9-4dcb-8c30-8bfda0643fa4)
+![Screenshot 2024-11-12 140242](https://github.com/user-attachments/assets/c5ea3c48-e792-48b8-8878-ec2b08644bec)
+![Screenshot 2024-11-12 140304](https://github.com/user-attachments/assets/394dce07-6084-48d5-8304-e4b23002729d)
+
+
+
 
 ---
 
